@@ -9,14 +9,14 @@ description: "빅픽처랩 공식 홈페이지"
 
 # Team names, titles and social links
 people:
-- name: 금창섭(Keum, Changsup)
+- name: Keum, Changsup
   pic: 1
-  position: CEO, Lead SW Architect
+  position: CEO, Chief SW Architect
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/changsup-keum-20922626/
 
-- name: 안휘(Hwi Ahn)
+- name: Hwi Ahn
   pic: 2
   position: CTO, SW Architect
   social:
