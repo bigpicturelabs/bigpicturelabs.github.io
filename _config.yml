@@ -2,52 +2,46 @@ url: http://bigpicturelabs.io
 baseurl: ""
 
 # Site settings
-title: Big Picture Labs.
+title: 빅픽처랩(주) bigpicturelabs inc.
 email: contact@bigpicturelabs.com
-description: "This is an official webpage of Big Picture Labs, which ..."
+description: "빅픽처랩 공식 홈페이지"
 
 
 # Team names, titles and social links
 people:
-- name: Keum, Changsup
+- name: 금창섭(Keum, Changsup)
   pic: 1
   position: CEO, Lead SW Architect
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/changsup-keum-20922626/
 
-- name: Hwi Ahn
+- name: 안휘(Hwi Ahn)
   pic: 2
   position: CTO, SW Architect
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/hwiahn/
+    - title: github
+      url: https://github.com/byron1st
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/bigpicturelabs
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: ETRI 11동 207호
+  - line: (34129) 대전광역시 유성구 가정로 218
 
 # Build settings
 markdown: kramdown
