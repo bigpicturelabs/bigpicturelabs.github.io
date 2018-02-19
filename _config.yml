@@ -37,6 +37,12 @@ social:
   #   url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/bigpicturelabs
+  - title: facebook
+    url: http://bigpicturelabs.co.kr
+  - title: medium
+    url:
+  - title: steemit
+    url:
 
 # Postal address (add as many lines as necessary)
 address:
