@@ -4,7 +4,7 @@ baseurl: ""
 # Site settings
 title: 빅픽처랩(주) bigpicturelabs inc.
 email: contact@bigpicturelabs.com
-description: "빅픽처랩 공식 홈페이지"
+description: "Official website for bigpicturelabs inc."
 
 
 # Team names, titles and social links
@@ -15,6 +15,12 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/changsup-keum-20922626/
+  career:
+    - title: ETRI, Head of Trust Communication Platform R&D Center
+    - title: Ministry of Science and ICT, committee for blockchain
+    - title: Software Engineer, society director
+    - title: Computer Science(PhD), KAIST
+    - title: CSE(M.A), Carnegie Mellon University
 
 - name: Hwi Ahn
   pic: 2
@@ -24,6 +30,9 @@ people:
       url: https://www.linkedin.com/in/hwiahn/
     - title: github
       url: https://github.com/byron1st
+  career:
+    - title: Computer Science(PhD candidate), KAIST
+    - title: MSIT-SE(M.A), Carnegie Mellon University
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
