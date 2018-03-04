@@ -16,13 +16,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/changsup-keum-20922626/
   career:
-    - title: ETRI, Head of Trust Communication Platform R&D Center
-    - title: Ministry of Science and ICT, committee for blockchain
-    - title: Software Engineer, society director
-    - title: Computer Science(PhD), KAIST
-    - title: CSE(M.A), Carnegie Mellon University
-
-- name: Hwi Ahn
+    - title: ETRI, Director of Trust Service Platform Section
+    - title: Ministry of Science and ICT, Member of Long-term planning committee for Blockchain
+    - title: Software Engineer Society, Member of BoD
+    - title: Computer Science(Ph.D.), Software Architecture Lab., KAIST
+    - title: Software Engineering (MSE)(M.E.), Carnegie Mellon University
+- name: Ahn, Hwi
   pic: 2
   position: CTO, SW Architect
   social:
@@ -31,8 +30,29 @@ people:
     - title: github
       url: https://github.com/byron1st
   career:
-    - title: Computer Science(PhD candidate), KAIST
-    - title: MSIT-SE(M.A), Carnegie Mellon University
+    - title: Computer Science(Ph.D. candidate), Software Architecture Lab., KAIST
+    - title: Software Engineering (MSIT-SE)(M.E.), Carnegie Mellon University
+- name: Kim, Jungho
+  pic: 3
+  position: Advisor, Senior SW Architect
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/정호-김-614700a5/
+  career:
+    - title: CEO in JUConsulting
+    - title: Adjunct Professor, Myungji University
+    - title: Computer Science(PhD candidate), Software Architecture Lab., KAIST
+    - title: Software Engineering (MSE)(M.E.), Carnegie Mellon University
+- name: Lee, Junbeom
+  pic: 4
+  position: SW Developer
+  social:
+    - title: github
+      url: https://github.com/junbeomlee
+  career:
+    - title: Lead Developer of it-chain
+    - title: M.E., Software Architecture Lab., KAIST (Expected at Aug. 2018)
+    - title: BSc, Chung-Ang University
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,10 +68,8 @@ social:
     url: https://github.com/bigpicturelabs
   - title: facebook
     url: http://bigpicturelabs.co.kr
-  - title: medium
-    url:
   - title: steemit
-    url:
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
