@@ -1,25 +1,30 @@
-  <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <!-- <ul class="list-inline quicklinks">
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+            </div>
+            <div class="col-md-2">
+                <ul class="list-inline social-buttons">
+                    {% for network in site.social %}
+                    <li>
+                        <a href="{{ network.url }}">
+                            <i class="fa fa-{{ network.title }}"></i>
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-5">
+                (34129) 대전광역시 유성구 가정로 218 한국전자통신연구원 11동 207호
+                <br> (ETRI Building 11 Rm# 207, 218, Gajeong-ro, Yuseong-gu, Daejeon)
+                <!-- <ul class="list-inline quicklinks">
                         <li><a href="#">Privacy Policy</a>
                         </li>
                         <li><a href="#">Terms of Use</a>
                         </li>
                     </ul> -->
-                </div>
             </div>
         </div>
-    </footer>
+    </div>
+</footer>
