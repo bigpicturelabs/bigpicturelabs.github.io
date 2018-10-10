@@ -8,8 +8,11 @@ thumbnail: trust51.png
 alt: image-alt
 project-date: May 2018 - present
 description: "Blockchain-based reputation management service, which refines accumulated evaluations and exchanges them securely and safely. <br>
-- Reputation management based on the blockchain and smart contracts <br>
-- Secure information wallet supporting multi-keys <br>
-- Access control based on multi-channels via the access control smart contract <br>
-- Community token reward"
+<ul>
+<li>Reputation management based on the blockchain and smart contracts</li>
+<li>Secure information wallet supporting multi-keys</li>
+<li>Access control based on multi-channels via the access control smart contract</li>
+<li>Community token reward</li>
+</ul>
+"
 ---

@@ -8,6 +8,10 @@ thumbnail: consultingandeducation.png
 alt: image-alt
 project-date: Jan 2018 - present
 description: "
-- Provide a consulting to ETRI about designing and deploying the blockchain service <br>
-- Provide a series of lectures about Software Architecture to Samsung Electronics"
+<ol>
+<li>Blockchain consulting & blockchain development services for ETRI</li>
+<li>SW Architecture Education for Samsung Electronics</li>
+<li>Blockchain talks and Education</li>
+</ol>
+"
 ---

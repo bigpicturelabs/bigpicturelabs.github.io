@@ -346,6 +346,15 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+section h3.section-subheading.custom {
+    margin-bottom: 35px;
+    text-transform: none;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 400;
+}
+
 @media(min-width:768px) {
     section {
         padding: 150px 0;
@@ -793,7 +802,11 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content p {
-    margin-bottom: 30px;
+    text-align: justify;
+}
+
+.portfolio-modal .modal-content li {
+    text-align: justify;
 }
 
 .portfolio-modal .modal-content p.item-intro {

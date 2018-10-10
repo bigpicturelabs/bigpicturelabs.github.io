@@ -1,6 +1,6 @@
 ---
-title: Opensource Blockchain Platforms
-subtitle: Analysis of the opensource blockchain platforms
+title: Open Source Blockchain Platforms
+subtitle: Analysis and Adoption of open source Blockchain platforms
 layout: default
 modal-id: 2
 img: opensource.png
@@ -8,8 +8,10 @@ thumbnail: opensource.png
 alt: image-alt
 project-date: Jan 2018 - present
 description: "Analysis of the opensource blockchain platforms and reconstruction of their architecture <br>
-- Hyperledger Fabric: Opensource private blockchain.<br>
-- <a href=\"https://github.com/it-chain/engine\"> it-chain </a>: Light-weight blockchain engine. bigpicturelabs supports and contributes its development.<br>
-- eos.io: 3rd generation public blockchain platform
+<ul>
+<li>Hyperledger Fabric: Opensource private blockchain.</li>
+<li><a href=\"https://github.com/it-chain/engine\"> it-chain </a>: Light-weight blockchain engine. bigpicturelabs supports and contributes its development.</li>
+<li>eos.io: 3rd generation public blockchain platform</li>
+</ul>
 "
 ---
