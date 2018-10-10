@@ -1,15 +1,13 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Consulting and Education
+subtitle: Design a service based on Blockchain and provide lectures about software architecture
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: consultingandeducation.png
+thumbnail: consultingandeducation.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: Jan 2018 - present
+description: "
+- Provide a consulting to ETRI about designing and deploying the blockchain service <br>
+- Provide a series of lectures about Software Architecture to Samsung Electronics"
 ---
