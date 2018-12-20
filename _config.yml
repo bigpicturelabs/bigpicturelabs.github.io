@@ -6,54 +6,75 @@ title: 빅픽처랩(주) bigpicturelabs inc.
 email: contact@bigpicturelabs.com
 description: "Official website for bigpicturelabs inc."
 
-
 # Team names, titles and social links
 people:
-- name: Keum, Changsup
-  pic: 1
-  position: CEO, Chief SW Architect
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/changsup-keum-20922626/
-  career:
-    - title: ETRI, Director of Trust Service Platform Section
-    - title: Ministry of Science and ICT, Member of Long-term planning committee for Blockchain
-    - title: Software Engineer Society, Member of BoD
-    - title: Computer Science(Ph.D.), Software Architecture Lab., KAIST
-    - title: Software Engineering (MSE)(M.E.), Carnegie Mellon University
-- name: Ahn, Hwi
-  pic: 2
-  position: CTO, SW Architect
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/hwiahn/
-    - title: github
-      url: https://github.com/byron1st
-  career:
-    - title: Computer Science(Ph.D. candidate), Software Architecture Lab., KAIST
-    - title: Software Engineering (MSIT-SE)(M.E.), Carnegie Mellon University
-    - title: BSc, KAIST
-- name: Kim, Jungho
-  pic: 3
-  position: Advisor, Senior SW Architect
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/정호-김-614700a5/
-  career:
-    - title: CEO in JUConsulting
-    - title: Adjunct Professor, Myungji University
-    - title: Computer Science(Ph.D.), Software Architecture Lab., KAIST
-    - title: Software Engineering (MSE)(M.E.), Carnegie Mellon University
-- name: Lee, Junbeom
-  pic: 4
-  position: SW Developer
-  social:
-    - title: github
-      url: https://github.com/junbeomlee
-  career:
-    - title: Lead Developer of it-chain
-    - title: M.E., Software Architecture Lab., KAIST
-    - title: BSc, Chung-Ang University
+  - name: Keum, Changsup
+    pic: 1
+    position: CEO, Chief SW Architect
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/changsup-keum-20922626/
+    career:
+      - title: ETRI, Director of Trust Service Platform Section
+      - title: Ministry of Science and ICT, Member of Long-term planning committee for Blockchain
+      - title: Software Engineer Society, Member of BoD
+      - title: Computer Science(Ph.D.), Software Architecture Lab., KAIST
+      - title: Software Engineering (MSE)(M.E.), Carnegie Mellon University
+  - name: Ahn, Hwi
+    pic: 5
+    position: CTO, SW Architect
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/hwiahn/
+      - title: github
+        url: https://github.com/byron1st
+    career:
+      - title: Computer Science(Ph.D. candidate), Software Architecture Lab., KAIST
+      - title: Software Engineering (MSIT-SE)(M.E.), Carnegie Mellon University
+      - title: BSc, KAIST
+  - name: Lee, Jaejun
+    pic: 2
+    position: SW Director
+    social:
+      - title: github
+        url: https://github.com/jaejun1ee
+    career:
+      - title: Mobile Cloud and AI Projects
+      - title: M.E., Software Architecture Lab., KAIST
+      - title: BSc, Han-Yang University
+  - name: Lee, Junbeom
+    pic: 4
+    position: SW Developer
+    social:
+      - title: github
+        url: https://github.com/junbeomlee
+    career:
+      - title: Lead Developer of it-chain
+      - title: M.E., Software Architecture Lab., KAIST
+      - title: BSc, Chung-Ang University
+
+advisor:
+  - name: Kim, Jungho
+    pic: 3
+    position: Advisor, Senior SW Architect
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/정호-김-614700a5/
+    career:
+      - title: CEO in JUConsulting
+      - title: Adjunct Professor, Myungji University
+      - title: Computer Science(Ph.D.), Software Architecture Lab., KAIST
+      - title: Software Engineering (MSE)(M.E.), Carnegie Mellon University
+  - name: Lee, Byung-Sun
+    pic: 3
+    position: Advisor, Senior SW Architect
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/정호-김-614700a5/
+    career:
+      - title: SW Service Platform Experts
+      - title: 35 Years Career in ETRI
+      - title: Computer Science(Ph.D.), KAIST
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -70,7 +91,7 @@ social:
   - title: facebook
     url: http://bigpicturelab.co.kr
   - title: steemit
-    url: 
+    url:
 
 # Postal address (add as many lines as necessary)
 address:
