@@ -69,10 +69,8 @@ advisor:
     pic: 3
     position: Advisor, Senior SW Architect
     social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/정호-김-614700a5/
     career:
-      - title: SW Service Platform Experts
+      - title: SW Service Platform Expert
       - title: 35 Years Career in ETRI
       - title: Computer Science(Ph.D.), KAIST
 
