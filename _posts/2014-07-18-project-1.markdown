@@ -1,6 +1,6 @@
 ---
-title: trust51
-subtitle: Blockchain-based Reputation Management System
+title: trust-chain
+subtitle: Reputation on Blockchain
 layout: default
 modal-id: 1
 img: trust51.png
