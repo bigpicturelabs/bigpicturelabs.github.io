@@ -42,16 +42,13 @@ people:
       - title: Mobile Cloud and AI Projects
       - title: M.E., Software Architecture Lab., KAIST
       - title: BSc, Han-Yang University
-  - name: Lee, Junbeom
+  - name: Kim, Beomjun
     pic: 4
     position: SW Developer
     social:
-      - title: github
-        url: https://github.com/junbeomlee
     career:
-      - title: Lead Developer of it-chain
       - title: M.E., Software Architecture Lab., KAIST
-      - title: BSc, Chung-Ang University
+      - title: BSc, KAIST
 
 advisor:
   - name: Kim, Jungho
