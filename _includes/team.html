@@ -9,7 +9,7 @@
     </div>
     <div class="row">
       {% for member in site.people %}
-      <div class="col-sm-3">
+      <div class="col-sm-4">
         <div class="team-member">
           <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="" />
           <h4>{{ member.name }}</h4>
@@ -21,7 +21,12 @@
             </li>
             {% endfor %}
           </ul>
+          <h5>주요경력</h5>
           {% for work in member.career %}
+          <p class="text-muted" style="margin-bottom:0px;">* {{ work.title }}</p>
+          {% endfor %}
+          <h5>학력</h5>
+          {% for work in member.education %}
           <p class="text-muted" style="margin-bottom:0px;">* {{ work.title }}</p>
           {% endfor %}
         </div>
@@ -30,7 +35,7 @@
     </div>
     <div class="row">
       {% for member in site.advisor %}
-      <div class="col-sm-6">
+      <div class="col-sm-12">
         <div class="team-member">
           <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="" />
           <h4>{{ member.name }}</h4>
@@ -49,10 +54,5 @@
       </div>
       {% endfor %}
     </div>
-    <!-- <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                </div>
-            </div> -->
   </div>
 </section>

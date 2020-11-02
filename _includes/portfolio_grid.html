@@ -3,33 +3,39 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading">Projects</h2>
+        <h2 class="section-heading">Product</h2>
         <h3 class="section-subheading text-muted">
-          Current projects that bigpicturelabs carrying out
+          조직문화 혁신을 위한 빅픽처랩의 제품입니다.
         </h3>
       </div>
     </div>
     <div class="row">
-      {% for post in site.posts %}
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a href="#portfolioModal{{ post.modal - id }}" class="portfolio-link" data-toggle="modal">
-          <div class="portfolio-hover">
-            <div class="portfolio-hover-content">
-              <i class="fa fa-plus fa-3x"></i>
-            </div>
-          </div>
+      <div class="col-md-6 col-sm-6 portfolio-item">
+        <a href="http://itdot.io" target="_blank"  class="portfolio-link" data-toggle="modal">
           <img
-            src="img/portfolio/{{ post.thumbnail }}"
+            src="img/portfolio/itdot.png"
             class="img-responsive img-centered"
             alt=""
           />
         </a>
         <div class="portfolio-caption">
-          <h4>{{ post.title }}</h4>
-          <p class="text-muted">{{ post.subtitle }}</p>
+          <h4>ITDOT</h4>
+          <p class="text-muted">오피니언 보드</p>
         </div>
       </div>
-      {% endfor %}
+      <div class="col-md-6 col-sm-6 portfolio-item">
+        <a href="https://www.notion.so/b1d78170cf0244f0aa413e9612a82c67"  target="_blank" class="portfolio-link" data-toggle="modal">
+          <img
+            src="img/portfolio/sumeet.png"
+            class="img-responsive img-centered"
+            alt=""
+          />
+        </a>
+        <div class="portfolio-caption">
+          <h4>SUMEET</h4>
+          <p class="text-muted">미팅 보드</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>

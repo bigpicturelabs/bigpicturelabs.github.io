@@ -8,90 +8,73 @@ description: "Official website for bigpicturelabs inc."
 
 # Team names, titles and social links
 people:
-  - name: Keum, Changsup
+  - name: 금창섭
     pic: 1
-    position: CEO, Chief SW Architect
+    position: CEO
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/changsup-keum-20922626/
     career:
-      - title: ETRI, Director of Trust Service Platform Section
-      - title: Ministry of Science and ICT, Member of Long-term planning committee for Blockchain
-      - title: Software Engineer Society, Member of BoD
-      - title: Computer Science(Ph.D.), Software Architecture Lab., KAIST
-      - title: Software Engineering (MSE)(M.E.), Carnegie Mellon University
-  - name: Ahn, Hwi
+      - title: 빅픽처랩 대표
+      - title: ETRI 신뢰서비스플랫폼연구실장
+      - title: SW공학소사이어티/CDE 학회 이사
+      - title: 블록체인 강연 100회 이상
+    education:
+      - title: KAIST 공학박사 (전산학)
+      - title: 카네기멜론대학교 공학석사
+  - name: 안휘
     pic: 5
-    position: CTO, SW Architect
+    position: CTO
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/hwiahn/
       - title: github
         url: https://github.com/byron1st
     career:
-      - title: Computer Science(Ph.D. candidate), Software Architecture Lab., KAIST
-      - title: Software Engineering (MSIT-SE)(M.E.), Carnegie Mellon University
-      - title: BSc, KAIST
-  - name: Lee, Jaejun
+      - title: 블록체인 개발팀장
+      - title: 오픈소스 it-chain 아키텍트
+    education:
+      - title: 카네기멜론대학교 공학석사
+      - title: KAIST 학사 (전산학)
+  - name: 이재준
     pic: 2
-    position: Director, SW Architect
+    position: 개발팀장
     social:
       - title: github
         url: https://github.com/jaejun1ee
     career:
-      - title: Mobile Cloud and AI Projects
-      - title: M.E., Software Architecture Lab., KAIST
-      - title: BSc, Han-Yang University
-  - name: Kim, Beomjun
-    pic: 4
-    position: SW Developer
-    social:
-    career:
-      - title: M.E., Software Architecture Lab., KAIST
-      - title: BSc, KAIST
+      - title: AI 개발팀장
+      - title: 딥러닝 기반 코드 변경 추천 시스템
+      - title: Tu Berlin 방문연구원
+    education:
+      - title: KAIST 공학석사 (전산학)
+      - title: 한양대학교 학사 (전산학)
 
 advisor:
-  - name: Kim, Jungho
+  - name: 김정호
     pic: 3
-    position: Advisor, Senior SW Architect
+    position: Advisor
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/정호-김-614700a5/
     career:
-      - title: CEO in JUConsulting
-      - title: Adjunct Professor, Myungji University
-      - title: Computer Science(Ph.D.), Software Architecture Lab., KAIST
-      - title: Software Engineering (MSE)(M.E.), Carnegie Mellon University
-  - name: Lee, Byung-Sun
-    pic: 3
-    position: Advisor, Senior SW Architect
-    social:
-    career:
-      - title: SW Service Platform Expert
-      - title: 35 Years Career in ETRI
-      - title: Computer Science(Ph.D.), KAIST
+      - title: 명지대학교 교수 (SW 아키텍처)
+      - title: 제이유컨설팅 대표
+    education:
+      - title: KAIST 공학박사 (전산학)
+      - title: 카네기멜론대학교 공학석사
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  # - title: twitter
-  #   url: http://twitter.com/jekyllrb
-  # - title: facebook
-  #   url:
-  # - title: stack-overflow
-  #   url: http://stackoverflow.com/questions/tagged/jekyll
-  # - title: bitbucket
-  #   url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/bigpicturelabs
   - title: facebook
     url: http://bigpicturelab.co.kr
-  - title: steemit
-    url:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: ETRI 11동 207호
-  - line: (34129) 대전광역시 유성구 가정로 218
+  - line: 3동 302호
+  - line: (34047) 대전광역시 유성구 유성대로1689번길 70 (전민동, KT대덕2연구센타)
 
 # Build settings
 markdown: kramdown
