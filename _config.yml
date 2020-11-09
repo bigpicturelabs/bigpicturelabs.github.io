@@ -63,13 +63,25 @@ advisor:
     education:
       - title: KAIST 공학박사 (전산학)
       - title: 카네기멜론대학교 공학석사
+  - name: 이선아
+    pic: 6
+    position: Advisor
+    social:
+      - title: google-plus
+        url: https://sites.google.com/site/saleese/
+    career:
+      - title: 경상대학교 교수 (데이터 분석, AI)
+      - title: 네브마인 대표
+    education:
+      - title: KAIST 공학박사 (전산학)
+      - title: 카네기멜론대학교 공학석사
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
     url: https://github.com/bigpicturelabs
   - title: facebook
-    url: http://bigpicturelab.co.kr
+    url: http://facebook.com/bigpicturelabs
 
 # Postal address (add as many lines as necessary)
 address:
